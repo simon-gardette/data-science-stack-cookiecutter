@@ -1,5 +1,6 @@
 {
     "project_name": "project_name",
+    "owner_name" : "owner_name",
     "jupyter_password": "changeme1234",
     "postgres_db_password": "changeme1234",
     "shared_db_password": "changeme1234",
